@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIP</string>
+    <string name="enter_your_height_inch">Enter your Height(inch)</string>
+    <string name="enter_your_height_ft">Enter your Height(ft)</string>
+    <string name="enter_your_weight_kg">Enter your Weight(kg)</string>
+    <string name="calculate">Calculate</string>
+</resources>
