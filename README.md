@@ -9,7 +9,7 @@ This BMI Calculator app is a simple Android application that allows users to cal
 - Show BMI assessment through a color-coded grading system for user convenience.
 - Provide feedback using Snackbar to display BMI results.
 
-## Screenshot
+## Screenshots
 
 <div style="display: flex; justify-content: space-around; flex-wrap: nowrap; overflow-x: auto;">
     <img src="https://github.com/Arpan550/BMI-Calculator-App/assets/112716028/182b2cef-8aef-4b5d-ad14-ce8b565c97ab" alt="Screenshot 1" width="200" style="border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);"/>
