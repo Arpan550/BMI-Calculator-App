@@ -4,10 +4,9 @@ This BMI Calculator app is a simple Android application that allows users to cal
 
 ## Features
 
-- Calculate BMI based on weight (in kilograms) and height (in meters).
-- Display BMI value and corresponding health status.
+- Calculate BMI based on weight (in kilograms) and height (in foot and inches).
+- Display corresponding BMI Category through Snackbar.
 - Show BMI assessment through a color-coded grading system for user convenience.
-- Provide feedback using Snackbar to display BMI results.
 
 ## Screenshots
 
